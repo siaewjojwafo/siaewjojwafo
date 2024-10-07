@@ -1,9 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=🤔&fontSize=90" />
 ## Hi there 👋
 ## Name📛 : Yhw
 ## 🏫Yeungnam University, Department of Software Convergence, 2
 ## 🍀🍀🍀
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=🤔&fontSize=90" />
 
 <!--
 **siaewjojwafo/siaewjojwafo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
