@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=
-## Hi there 👋 \n
-## Name📛 : Yhw \n
-## 🏫Yeungnam University, Department of Software Convergence, 2 \n
-## 🍀🍀🍀&fontSize=90" \n
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text= Hi there 👋\nName📛 : Yhw\n🏫Yeungnam University, Department of Software Convergence, 2&fontSize=90"
 />
 
 <!--
