@@ -1,12 +1,13 @@
 ## Hi there 👋
+## Name📛 : Yhw
+## 🏫Yeungnam University, Department of Software Convergence, 2
 
 <!--
 **siaewjojwafo/siaewjojwafo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-##Name📛 : Yhw
-##🏫Yeungnam University, Department of Software Convergence, 2
+
 
 
 - 🔭 I’m currently working on ...
