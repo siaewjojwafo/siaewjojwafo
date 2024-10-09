@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
-<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=150&section=header&text=Hi%20there👋&fontSize=30"&animation=blink/>
+![header](https://capsule-render.vercel.app/api?text=Hi%20there👋&animation=blinking)
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=footer&text=Name📛%20:%20Yhw&fontSize=30" />
 <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=150&section=footer&text=🏫Yeungnam%20University,%20Department%20of%20Software%20Convergence,%202&fontSize=30" />
 
