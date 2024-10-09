@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=Hi%20there👋&fontSize=50" />
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&text=Name📛%20:%20Yhw&fontSize=50" />
- ## 🏫Yeungnam University, Department of Software Convergence, 2
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=😸&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&text=🏫Yeungnam%20University,%20Department%20of%20Software%20Convergence,%202&fontSize=50" />
 
 <!--
 **siaewjojwafo/siaewjojwafo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
