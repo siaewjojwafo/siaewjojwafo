@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=eggtext=Hi%20there👋&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=egg&text=Hi%20there👋&animation=scaleIn)
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=footer&text=Name📛%20:%20Yhw&fontSize=30" />
 <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=150&section=footer&text=🏫Yeungnam%20University,%20Department%20of%20Software%20Convergence,%202&fontSize=30" />
 
